@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Cat Memes for lyfe!!!!!!!!!
+Hello World!!!!!!!!!
 Use the left arrow to go back!
